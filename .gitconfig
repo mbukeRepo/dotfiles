@@ -1,0 +1,18 @@
+[user]
+    name = mbukeRepo
+    email = ""
+
+[core]
+    editor = vim
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+
+[init]
+    defaultBranch = main
